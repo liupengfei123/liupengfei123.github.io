@@ -1,9 +1,10 @@
-# HuxBlog Boilerplate
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
 
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
 
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+## 致谢
+
+1. 这个模板是从这里[IronSummitMedia/startbootstrap-clean-blog-jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll)  forked 的。 感谢这个作者
+2. 感谢[@BrucZhaoR](https://github.com/BruceZhaoR)的中文翻译 
+
+3. 感谢 Jekyll、Github Pages 和 Bootstrap!
