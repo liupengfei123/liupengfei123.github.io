@@ -1,22 +1,22 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: xiaopang Blog
+SEOTitle: 减肥一定成功的小胖 | xiaopang Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: ""
+description: "用于记录学习的笔记"
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://liupengfei123.github.io/"              # your host, for absolute URL
+baseurl: "/liupengfei123.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     减肥一定成功的小胖
+zhihu_username:     减肥一定成功的小胖
+github_username:    减肥一定成功的小胖
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  减肥一定成功的小胖
 
 
 
@@ -50,19 +50,19 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+#duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+#ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: 'UA-162771323-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
 
 
 
