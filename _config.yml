@@ -2,7 +2,7 @@
 title: xiaopang Blog
 SEOTitle: 减肥一定成功的小胖 | xiaopang Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: liupf@gmail.com
 description: "用于记录学习的笔记"
 keyword: ""
 url: "https://liupengfei123.github.io/"              # your host, for absolute URL
@@ -14,8 +14,8 @@ baseurl: "/liupengfei123.github.io"         # for example, '/blog' if your blog 
 RSS: false
 weibo_username:     减肥一定成功的小胖
 zhihu_username:     减肥一定成功的小胖
-github_username:    减肥一定成功的小胖
-#twitter_username:  huxpro
+github_username:    liupengfei123
+#twitter_username:  
 facebook_username:  减肥一定成功的小胖
 
 
@@ -32,8 +32,8 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
-
+# gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 # Markdown settings
@@ -69,13 +69,13 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-liupf.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 6              # A tag will be featured if the size of it is more than this condition value
 
 
 
