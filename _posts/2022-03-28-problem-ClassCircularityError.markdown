@@ -1,12 +1,12 @@
 ---
 layout:     page
-title:      "ClassCircularityError异常问题排除"
-subtitle:   "一次奇怪的ClassCircularityError异常问题排除"
+title:      "ClassCircularityError异常问题排查"
+subtitle:   "一次奇怪的ClassCircularityError异常问题排查"
 date:       2022-03-28
 author:     "Lpf"
 header-img: "img/home-bg.jpg"
 tags:
-    - 问题排除
+    - 问题排查
 ---
 
 # 前述
