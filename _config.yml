@@ -6,7 +6,7 @@ email: liupf@gmail.com
 description: "用于记录学习的笔记"
 keyword: ""
 url: "https://liupengfei123.github.io/"              # your host, for absolute URL
-baseurl: "/liupengfei123.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
