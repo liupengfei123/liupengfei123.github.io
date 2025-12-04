@@ -1,4 +1,3 @@
-
 ---
 layout:     page
 title:      "修改系统时间导致探针掉线问题"
@@ -8,7 +7,6 @@ author:     "Lpf"
 header-img: "img/home-bg.jpg"
 tags:
     - 问题排查
-    - JDK
 ---
 
 # 问题描述
